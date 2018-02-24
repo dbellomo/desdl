@@ -78,6 +78,6 @@ layout: default
 
 # Ref
 
-Referencias a sitios web, programas de radio y podcats.
+Bibliografía, sitios web, programas de radio y podcats.
 
 - [autodefensa informática (radio almaina)](https://autodefensainformatica.radioalmaina.org)
