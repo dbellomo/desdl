@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Criterio para elaborar esta propuesta: visibilizar herramientas diseñadas por la comunidad para la comunidad que, generalmente son menos conocidas, debido a la capacidad cada día mayor de imponerse las grandes multinacionales.
+
 # Software Libre
 
 - descripción
