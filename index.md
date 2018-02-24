@@ -27,6 +27,7 @@ layout: default
 - estándar de facto
 - estándar consensuados
 - documentos compartidos
+- calendarios
 
 # Servicios en la nube
 
@@ -92,6 +93,8 @@ layout: default
 # Reuniones virtuales
 
 - video conferencias
+- Jitsi
+- VoIP
 
 # Mensajería
 
@@ -110,11 +113,12 @@ layout: default
 
 # Documentación
 
-- más allá del .pdf, .ppt y el .doc
+más allá del .pdf, .ppt y el .doc
 - editores de texto plano
 - markdown
 - readthedocs
 - epub
+- HTML
 - presentaciones on-line
 
 # Datos abiertos
@@ -138,6 +142,10 @@ layout: default
 
 - PC (gran capacidad de cómputo)
 - Mini Pc (mínimo consumo de energía)
+- Hosting
+- VPS
+- Cloud
+
 
 # Espacios autogestivos de aprendizaje y trabajo colaborativo
 
