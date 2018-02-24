@@ -60,6 +60,12 @@ layout: default
 
 # Reuniones virtuales
 
+- video conferencias
+
+# Mensajería
+
+- jabber
+
 # Toma de decisiones
 
 - loomio
