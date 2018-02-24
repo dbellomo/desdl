@@ -44,9 +44,15 @@ layout: default
 - Anonimato
 - cookies
 - HTTPS
+- modo incógnito
 - tor browser
 - VPN
 - DNS
+
+# Buscadores
+
+- más allá de google
+- buscadores que respetan la privacidad
 
 # Copias de Seguridad
 
