@@ -105,6 +105,14 @@ layout: default
 - epub
 - presentaciones on-line
 
+# Datos abiertos
+
+- portales de datos abiertos
+
+# Redes Comunitarias
+
+- tomando el control de la red
+
 # Hardware
 
 - PC (gran capacidad de cómputo)
