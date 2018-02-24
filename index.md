@@ -67,6 +67,7 @@ layout: default
 
 # Privacidad de la información
 
+- metadata
 - cifrar archivos
 - firma digital
 
