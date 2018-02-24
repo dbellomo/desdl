@@ -98,7 +98,7 @@ layout: default
 
 # Documentación
 
-- más allá del .pdf y el .doc
+- más allá del .pdf, .ppt y el .doc
 - editores de texto plano
 - markdown
 - readthedocs
