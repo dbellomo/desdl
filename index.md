@@ -27,6 +27,7 @@ Procesador de textos, planilla de cálculo, presentaciones, base de datos
 - estándar de facto
 - estándar consensuados
 - documentos compartidos
+- pad
 - calendarios
 
 # Servicios en la nube
