@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**Criterio para elaborar esta propuesta:** visibilizar herramientas diseñadas por y para la comunidad, las cuales, frecuentemente, son menos conocidas, debido a la capacidad cada día mayor de imponerse por parte las grandes multinacionales y la gran difusión que alcanzaron, lo que ha llevado a imponerse como estándares *de facto*.
+**Criterio para elaborar esta propuesta:** visibilizar herramientas diseñadas por y para la comunidad, las cuales son menos conocidas, debido a la capacidad cada día mayor de imponerse por parte las grandes multinacionales y la impresionante difusión que alcanzaron, lo que ha llevado a imponerse como estándares *de facto*.
 
 # Software Libre
 
@@ -21,8 +21,8 @@ layout: default
 
 # Ofimática
 
+Procesador de textos, planilla de cálculo, presentaciones, base de datos
 - LibreOffice
-  - procesador de textos, planilla de cálculo, presentaciones, BD
 - formato estándar de documentos
 - estándar de facto
 - estándar consensuados
@@ -54,10 +54,10 @@ layout: default
 
 # Buscadores
 
-- más allá de google
+más allá de google
 - buscadores que respetan la privacidad
 
-# Copias de Seguridad
+# Copias de respaldo
 
 - back-up
 - control de versiones
@@ -120,10 +120,12 @@ más allá del .pdf, .ppt y el .doc
 - epub
 - HTML
 - presentaciones on-line
+- Creative Commons
 
 # Datos abiertos
 
 - portales de datos abiertos
+- formatos de datos abiertos
 
 # Controlar la conexión a Internet
 
@@ -146,7 +148,6 @@ más allá del .pdf, .ppt y el .doc
 - VPS
 - Cloud
 
-
 # Espacios autogestivos de aprendizaje y trabajo colaborativo
 
 - hackathons
@@ -155,10 +156,9 @@ más allá del .pdf, .ppt y el .doc
 - editathons
 - mapathons
 
-# Ref
+# Referencias
 
-Bibliografía, sitios web, programas de radio y podcats.
-
+Bibliografía, sitios web, programas de radio y podcats
 - [Pantallas, derechos, cultura y conocimiento. Cap. 5: Software libre y cooperativismo. Instrumentos para la democratización del conocimiento](http://publicaciones.filo.uba.ar/sites/publicaciones.filo.uba.ar/files/Pantallas,%20derechos,%20cultura%20y%20conocimiento.pdf)
 - [Software libre para una sociedad libre](https://www.gnu.org/philosophy/fsfs/free_software.es.pdf)
 - [Manual de tecnologías abiertas para la gestión de organizaciones de la Economía Social y Solidaria](https://www.gcoop.coop/manual-tecnologias-abiertas)
