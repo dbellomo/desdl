@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Criterio para elaborar esta propuesta: visibilizar herramientas diseñadas por la comunidad para la comunidad que, generalmente son menos conocidas, debido a la capacidad cada día mayor de imponerse las grandes multinacionales.
+**Criterio para elaborar esta propuesta:** visibilizar herramientas diseñadas por y para la comunidad, las cuales, frecuentemente, son menos conocidas, debido a la capacidad cada día mayor de imponerse por parte las grandes multinacionales y la gran difusión que alcanzaron, lo que ha llevado a imponerse como estándares *de facto*.
 
 # Software Libre
 
