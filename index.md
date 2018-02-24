@@ -5,9 +5,10 @@ layout: default
 # Software Libre
 
 - descripción
+- movimiento de SL
 - Copyleft
 - GNU
-- licencias
+- GPL
 
 # Sistema Operativo
 
@@ -27,8 +28,9 @@ layout: default
 # Navegador web
 
 - Firefox
-- Privacidad
 - add-ons
+- Privacidad
+- Anonimato
 - tor
 - VPN
 
@@ -47,7 +49,7 @@ layout: default
 - proveedores que garantizan privacidad
 - pgp
 
-# Redes sociales Libres
+# Redes sociales federadas
 
 ¿Por qué debemos usar redes libres en lugar de las comerciales (Facebook, etc)?
 
