@@ -42,6 +42,7 @@ layout: default
 - add-ons
 - Privacidad
 - Anonimato
+- cookies
 - HTTPS
 - tor browser
 - VPN
@@ -56,10 +57,12 @@ layout: default
 
 - virus
 - rasonware
+- Unidad Fiscal Especializada en Ciberdelincuencia
 
 # Privacidad de la información
 
 - cifrar archivos
+- firma digital
 
 # e-mail
 
@@ -108,6 +111,15 @@ layout: default
 # Datos abiertos
 
 - portales de datos abiertos
+
+# Controlar la conexión a Internet
+
+- ¿qué servicio contratamos?
+- ISPs
+- chequeos
+- reclamos
+- ENACOM (Ente Nacional de Comunicaciones)
+- neutralidad de la red
 
 # Redes Comunitarias
 
