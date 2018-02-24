@@ -36,24 +36,30 @@ layout: default
 
 - sync
 
-# Navegador web
+# Navegar de manera segura
 
 - Firefox
 - add-ons
 - Privacidad
 - Anonimato
+- HTTPS
 - tor browser
 - VPN
+- DNS
 
 # Copias de Seguridad
 
 - back-up
 - control de versiones
 
-# Seguridad
+# Seguridad de la información
 
 - virus
 - rasonware
+
+# Privacidad de la información
+
+- cifrar archivos
 
 # e-mail
 
@@ -63,7 +69,7 @@ layout: default
 # Redes sociales federadas
 
 ¿Por qué debemos usar redes libres en lugar de las comerciales (Facebook, etc)?
-
+- opciones de privacidad
 - mastodon
 - GnuSocial
 
@@ -92,6 +98,7 @@ layout: default
 
 # Documentación
 
+- más allá del .pdf y el .doc
 - editores de texto plano
 - markdown
 - readthedocs
