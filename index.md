@@ -118,12 +118,13 @@ layout: default
 - PC (gran capacidad de cómputo)
 - Mini Pc (mínimo consumo de energía)
 
-# Espacios de aprendizaje y trabajo colaborativo
+# Espacios autogestivos de aprendizaje y trabajo colaborativo
 
 - hackathons
 - hacklabs
 - datathons
 - editathons
+- mapathons
 
 # Ref
 
