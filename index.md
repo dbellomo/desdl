@@ -5,7 +5,6 @@ layout: default
 **Criterio para elaborar esta propuesta:** visibilizar herramientas diseñadas por y para la comunidad, las cuales son menos conocidas, debido a la capacidad cada día mayor de imponerse por parte las grandes multinacionales y la impresionante difusión que alcanzaron, lo que ha llevado a imponerse como estándares *de facto*.
 
 # Software Libre
-
 - descripción
 - movimiento de SL
 - Copyleft
@@ -13,14 +12,12 @@ layout: default
 - GPL
 
 # Sistema Operativo
-
 - GNU/Linux
 - distribuciones
 - seguridad
 - actualizaciones
 
 # Ofimática
-
 Procesador de textos, planilla de cálculo, presentaciones, base de datos
 - LibreOffice
 - formato estándar de documentos
@@ -31,17 +28,14 @@ Procesador de textos, planilla de cálculo, presentaciones, base de datos
 - calendarios
 
 # Servicios en la nube
-
 - plataformas de colaboración
 - owncloud
 - disroot
 
 # Archivos compartidos
-
 - sync
 
 # Navegar de manera segura
-
 - Firefox
 - add-ons
 - Privacidad
@@ -54,66 +48,54 @@ Procesador de textos, planilla de cálculo, presentaciones, base de datos
 - DNS
 
 # Buscadores
-
 más allá de google
 - buscadores que respetan la privacidad
 
 # Copias de respaldo
-
 - back-up
 - control de versiones
 
 # Seguridad de la información
-
 - virus
 - rasonware
 - Unidad Fiscal Especializada en Ciberdelincuencia
 
 # Privacidad de la información
-
 - metadata
 - cifrar archivos
 - firma digital
 
 # e-mail
-
 - proveedores que garantizan privacidad
 - gpg
 
 # Redes sociales federadas
-
 ¿Por qué debemos usar redes libres en lugar de las comerciales (Facebook, etc)?
 - opciones de privacidad
 - mastodon
 - GnuSocial
 
 # mapas
-
 - OpenStreetMap
 
 # Reuniones virtuales
-
 - video conferencias
 - Jitsi
 - VoIP
 
 # Mensajería
-
 - jabber
 
 # Toma de decisiones
-
 - loomio
 
 # web site
-
 - registro de dominios
 - Sitios dinámicos
 - Sitios estáticos
 - Servicios para poner on-line el sitio web
 
 # Documentación
-
 más allá del .pdf, .ppt y el .doc
 - editores de texto plano
 - markdown
@@ -123,13 +105,17 @@ más allá del .pdf, .ppt y el .doc
 - presentaciones on-line
 - Creative Commons
 
-# Datos abiertos
+# Administrar proyectos
+- redmine
 
+# Gestión de incidentes
+- Request Tracker
+
+# Datos abiertos
 - portales de datos abiertos
 - formatos de datos abiertos
 
 # Controlar la conexión a Internet
-
 - ¿qué servicio contratamos?
 - ISPs
 - chequeos
@@ -138,11 +124,9 @@ más allá del .pdf, .ppt y el .doc
 - neutralidad de la red
 
 # Redes Comunitarias
-
 - tomando el control de la red
 
 # Hardware
-
 - PC (gran capacidad de cómputo)
 - Mini Pc (mínimo consumo de energía)
 - Hosting
@@ -150,7 +134,6 @@ más allá del .pdf, .ppt y el .doc
 - Cloud
 
 # Espacios autogestivos de aprendizaje y trabajo colaborativo
-
 - hackathons
 - hacklabs
 - datathons
@@ -158,7 +141,6 @@ más allá del .pdf, .ppt y el .doc
 - mapathons
 
 # Referencias
-
 Bibliografía, sitios web, programas de radio y podcats
 - [Pantallas, derechos, cultura y conocimiento. Cap. 5: Software libre y cooperativismo. Instrumentos para la democratización del conocimiento](http://publicaciones.filo.uba.ar/sites/publicaciones.filo.uba.ar/files/Pantallas,%20derechos,%20cultura%20y%20conocimiento.pdf)
 - [Software libre para una sociedad libre](https://www.gnu.org/philosophy/fsfs/free_software.es.pdf)
