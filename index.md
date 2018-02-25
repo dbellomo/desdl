@@ -86,6 +86,7 @@ más allá de google
 
 # Mensajería
 - jabber
+- Matrix
 
 # Toma de decisiones
 - loomio
