@@ -24,12 +24,12 @@ Procesador de textos, planilla de cálculo, presentaciones, base de datos
 - estándar de facto
 - estándar consensuados
 - documentos compartidos
-- pad
+- Pads
 - calendarios
 
 # Servicios en la nube
 - plataformas de colaboración
-- owncloud
+- NextCloud
 - disroot
 
 # Archivos compartidos
@@ -74,6 +74,7 @@ más allá de google
 - opciones de privacidad
 - mastodon
 - GnuSocial
+- Diaspora
 
 # mapas
 - OpenStreetMap
