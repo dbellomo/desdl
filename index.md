@@ -144,6 +144,7 @@ más allá del .pdf, .ppt y el .doc
 
 # Referencias
 Bibliografía, sitios web, programas de radio y podcats
+- [Software Libre, Cooperativas y Economía Social](https://dbellomo.github.io/sl.coop/)
 - [Pantallas, derechos, cultura y conocimiento. Cap. 5: Software libre y cooperativismo. Instrumentos para la democratización del conocimiento](http://publicaciones.filo.uba.ar/sites/publicaciones.filo.uba.ar/files/Pantallas,%20derechos,%20cultura%20y%20conocimiento.pdf)
 - [Software libre para una sociedad libre](https://www.gnu.org/philosophy/fsfs/free_software.es.pdf)
 - [Manual de tecnologías abiertas para la gestión de organizaciones de la Economía Social y Solidaria](https://www.gcoop.coop/manual-tecnologias-abiertas)
