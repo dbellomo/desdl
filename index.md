@@ -150,3 +150,4 @@ Bibliografía, sitios web, programas de radio y podcats
 - [Manual de tecnologías abiertas para la gestión de organizaciones de la Economía Social y Solidaria](https://www.gcoop.coop/manual-tecnologias-abiertas)
 - [El software libre como herramienta](https://www.argentina.gob.ar/noticias/el-software-libre-como-herramienta)
 - [autodefensa informática (radio almaina)](https://autodefensainformatica.radioalmaina.org)
+- [Navegación anónima con tor](https://eldesarmador.org/10-navegacion-anonima-con-tor.html)
