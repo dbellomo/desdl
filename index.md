@@ -4,6 +4,9 @@ layout: default
 
 **Criterio para elaborar esta propuesta:** visibilizar herramientas diseñadas por y para la comunidad, las cuales son menos conocidas, debido a la capacidad cada día mayor de imponerse por parte las grandes multinacionales y la impresionante difusión que alcanzaron, lo que ha llevado a imponerse como estándares *de facto*.
 
+
+[Resolución de la creación del Diplomado](doc/Diplomado-Agente_Facilitador_Economia_Social.pdf)
+
 # Software Libre
 - descripción
 - movimiento de SL
