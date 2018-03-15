@@ -154,3 +154,5 @@ Bibliografía, sitios web, programas de radio y podcats
 - [El software libre como herramienta](https://www.argentina.gob.ar/noticias/el-software-libre-como-herramienta)
 - [autodefensa informática (radio almaina)](https://autodefensainformatica.radioalmaina.org)
 - [Navegación anónima con tor](https://eldesarmador.org/10-navegacion-anonima-con-tor.html)
+
+![](assets/images/flyer_diplomatura_FCE_UNRC.png)
